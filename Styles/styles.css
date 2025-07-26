@@ -11,7 +11,11 @@
   }
 
   /* 
-  Normal text: 
+  Normal text: text-[rgb(0,0,0)] opacity-50 lg:text-[22px] font-normal text-sm
+                w-[361px] h-[147px]
+
+  <p class="font-bold text-2xl lg:text-[65px] font"><span class="text-[#000000]">Always</span>
+                     <span class="text-[#E95A08]">Fresh <br> Flowers</span></p>
   
   
   
